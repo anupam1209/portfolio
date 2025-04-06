@@ -37,12 +37,11 @@ const Hero: React.FC = () => {
             algorithms, debugging, networking, operating systems, DBMS, React,
             Node.js, multithreading, and POS systems
           </p> */}
-          <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8">
-            A passionate Full Stack Developer crafting innovative web solutions
-          </p>
           <p className="text-lg text-gray-500 dark:text-gray-400 mb-12 max-w-2xl mx-auto">
-            I specialize in building modern web applications using cutting-edge
-            technologies. Let's work together to bring your ideas to life!
+            Computer Science student with expertise in developing POS systems
+            and software engineering. Currently pursuing an MTech at NIT
+            Karnataka. Previously contributed to global payment applications at
+            Verifone.
           </p>
 
           <div className="flex justify-center space-x-6">
